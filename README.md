@@ -1,7 +1,7 @@
-# Le Défilé Solidaire
+# The Charity Fashion Show
 
-Site vitrine du projet *Le Défilé Solidaire — en faveur de la vie terrestre* (projet à impact emlyon, ODD 15).
+Showcase site for *The Charity Fashion Show — for life on land* (emlyon impact project, SDG 15).
 
-Site statique : `index.html` + `assets/`. Déployé avec Netlify (aucune commande de build, dossier de publication : la racine).
+Static site: `index.html` + images at the root. Deployed with Netlify (no build command, publish directory: the root).
 
-Le formulaire « Entreprises » utilise Netlify Forms : les demandes apparaissent dans Netlify › Forms.
+The "Businesses" form uses Netlify Forms: requests show up in Netlify › Forms.
